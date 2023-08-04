@@ -46,6 +46,9 @@ body {
 .yellow {
   background-color: yellow;
 }
+.white {
+  background-color: white;
+}
 
 .pressed {
   box-shadow: 0 0 20px white;
